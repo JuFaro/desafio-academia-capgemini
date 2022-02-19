@@ -32,9 +32,9 @@ Para o desenvolvivemto foram utilizadas as seguintes tecnologias:
 
 # Questões
 
-* [Resolução Questão Um](https://github.com/JuFaro/desafio-capgemini/wiki/QuestaoUm)
-* [Resolução Questão Dois](https://github.com/JuFaro/desafio-capgemini/wiki/QuestaoDois)
-* [Resolução Questão Três](https://github.com/JuFaro/desafio-capgemini/wiki/QuestaoTres)
+* [Resolução Questão Um](https://github.com/JuFaro/desafio-academia-capgemini/wiki/Quest%C3%A3o-01)
+* [Resolução Questão Dois](https://github.com/JuFaro/desafio-academia-capgemini/wiki/Quest%C3%A3o-02)
+* [Resolução Questão Três](https://github.com/JuFaro/desafio-academia-capgemini/wiki/Quest%C3%A3o-03)
 
 
 
