@@ -10,7 +10,7 @@ public class QuestaoUm {
 		String escadaMontada;
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.print("Digite um tamanho numérico para forma sua escada: ");
+		System.out.print("Digite um tamanho numérico para formar sua escada: ");
 		numero = scanner.nextInt();
 		escadaMontada = montaEscada(numero);
 
